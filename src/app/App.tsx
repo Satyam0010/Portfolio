@@ -46,22 +46,22 @@ const CERTS = [
   {
     title: "Electronic Arts Software Engineering Job Simulation",
     org: "Forage",
-    link: "src\\Certificates\\Screenshot 2026-06-26 232839.png",
+    link: "public\\Certificates\\Screenshot 2026-06-26 232839.png",
   },
   {
     title: "J.P. Morgan Software Engineering Job Simulation",
     org: "Forage",
-    link: "src\\Certificates\\Screenshot 2026-06-26 233035.png",
+    link: "public\\Certificates\\Screenshot 2026-06-26 233035.png",
   },
   {
     title: "Full Stack Web Development with MERN Stack",
     org: "Udemy",
-    link: "src\\Certificates\\Screenshot 2026-06-26 232719.png",
+    link: "public\\Certificates\\Screenshot 2026-06-26 232719.png",
   },
   {
     title: "Java Fundamentals",
     org: "Scaler Academy",
-    link: "src\\Certificates\\Java Fundamentals.png",
+    link: "public\\Certificates\\Java Fundamentals.png",
   }
 ];
 
