@@ -23,7 +23,7 @@ const SKILLS: Record<string, string[]> = {
   Programming: ["Java", "JavaScript", "Python", "C", "SQL"],
   Frontend: ["HTML", "CSS", "React", "Tailwind CSS"],
   Backend: ["Node.js", "Express.js", "REST APIs"],
-  Database: ["MongoDB", "MySQL"],
+  Database: ["MongoDB", "SQL"],
   "Computer Science": [
     "Data Structures",
     "Algorithms",
@@ -32,7 +32,7 @@ const SKILLS: Record<string, string[]> = {
     "Problem Solving",
     "Networking",
   ],
-  Tools: ["Git", "GitHub", "Postman", "VS Code", "IntelliJ IDEA"],
+  Tools: ["Git", "GitHub", "Postman", "VS Code", "IntelliJ IDEA", "MySQL", "MSSQL", "MongoDB Atlas"],
 };
 
 const CURRENTLY_BUILDING = [
@@ -81,7 +81,7 @@ const EDUCATION = [
     degree: "B.Tech — Computer Science & Engineering",
     institution: "G.L. Bajaj Institute of Technology & Management",
     period: "2024 – 2028",
-    tags: ["CGPA: 8.06"],
+    tags: ["CGPA: 7.97"],
   },
   {
     degree: "ISC — Class XII",
